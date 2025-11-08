@@ -1,0 +1,65 @@
+[
+  {
+    "id": "p-1",
+    "name": "Aurora Desk Lamp",
+    "price": 59.99,
+    "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.4MUw8q3_wuM6EID3HqILYgHaF7?pid=Api&P=0&h=180"
+  },
+  {
+    "id": "p-2",
+    "name": "Midnight Throw Blanket",
+    "price": 39.5,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1675883340738-127031a7861b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=764"
+  },
+  {
+    "id": "p-3",
+    "name": "Serenity Soy Candle",
+    "price": 24,
+    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.2aCVVhHMcprksxSzAsQqKgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "p-4",
+    "name": "Velvet Accent Pillow",
+    "price": 32.75,
+    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.kylPd3CHPUdCflymFyiiTwHaEn?w=2500&h=1560&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "p-5",
+    "name": "Nordic Ceramic Vase",
+    "price": 44.25,
+    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.LeOp0PrZak8sqsEtg_LuyQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "p-6",
+    "name": "Handwoven Basket Set",
+    "price": 68,
+    "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.41yCIY8_N7HFo3WkuS7HWwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "p-7",
+    "name": "Marble Serving Board",
+    "price": 54.5,
+    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.RzVWYQ1lVqZ9Hw2jTPjqEAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "p-8",
+    "name": "Opal Glassware Set",
+    "price": 72,
+    "imageUrl": "https://i5.walmartimages.com/asr/a3da1097-fdf1-49c8-ae99-1867f31a1834.13be7d85c52ab2cd41c69f82d7a97dda.jpeg"
+  },
+  {
+    "id": "p-9",
+    "name": "Canvas Weekender Bag",
+    "price": 89.99,
+    "imageUrl": "https://images.unsplash.com/photo-1578237493287-8d4d2b03591a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dG90ZSUyMGJhZ3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=800"
+  },
+  {
+    "id": "p-10",
+    "name": "Himalayan Salt Diffuser",
+    "price": 48.5,
+    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.jCEYX0CGfPdvqojZn9eetgHaJQ?pid=Api&P=0&h=180"
+  }
+]
+
+
+
